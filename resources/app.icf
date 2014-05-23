@@ -1,0 +1,12 @@
+[S3E]
+MemMgrMaxAllocWarning=0
+DispFixRot=Landscape
+IOSDispScaleFactor=200
+WinSuspendOnFocusLoss=1
+SysStackSize=40000000
+MemSize=400000000
+
+[GL]
+
+[QUICK]
+mainFilename="main.lua"
